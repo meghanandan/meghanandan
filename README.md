@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meghanandan JB</h1>
-<h3 align="center">A Frontend ReactJS Developer and an MBA Graduate!!</h3>
+<h3 align="center">I'm a Sr. Web Developer + ReactJS and an MBA Graduate!!</h3>
 
 - 🌱 I’m currently learning **Redux, python, php**
 
