@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Redux, python, php**
 
-- 💬 Ask me about **html,css,js,bootstrap,reactjs**
+- 💬 Ask me about **HTML,CSS,JavaScript,JQuery,ChatGPT,ReactJS,PrimeReact,Bootstrap**
 
 - 📫 How to reach me **meghanandan@outlook.com**
 
