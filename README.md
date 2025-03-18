@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **meghanandan@outlook.com**
 
-- ⚡ Fun fact **I think am cool**
+- ⚡ Fun fact **I am addicted to learn newer things everyday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
