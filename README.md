@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meghanandan JB</h1>
-<h3 align="center">I'm a Creative Front-End Developer and a UI/UX-Focused React Engineer!!</h3>
+<h3 align="center">I'm a Full Stack Developer and a Context Engineer!!</h3>
 
-- 🌱 I’m currently learning **Redux, NextJS, MongoDB**
+- 🌱 Coolest thing i am presently learning **AWS, AI's, LLMs, Linux**
 
 - 💬 Ask me about **HTML,CSS,JavaScript,JQuery,ChatGPT,ReactJS,PrimeReact,Bootstrap**
 
